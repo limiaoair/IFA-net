@@ -6,7 +6,7 @@ This is a part of the project, and we are planning to release the entire code (a
 <p align="center">
     <img src="9.png"/> <br />
     <em> 
-    Figure 1: The overall architecture of the proposed SP-Net.
+    Figure 1: Subjective comparison among different methods. 
     </em>
 </p>
 
