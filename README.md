@@ -4,7 +4,7 @@ This is a part of the project, and we are planning to release the entire code (a
 
 ## Results
 <p align="center">
-    <img src="Imgs/Fig_framework.png"/> <br />
+    <img src="9.png"/> <br />
     <em> 
     Figure 1: The overall architecture of the proposed SP-Net.
     </em>
