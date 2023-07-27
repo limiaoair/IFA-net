@@ -11,4 +11,4 @@ This is a part of the project, and we are planning to release the entire code (a
 </p>
 
 ## Saliency maps
-Saliency maps can be download at: VGG ([Google]https://drive.google.com/drive/folders/1vFvVu7_SI-0Ia8SmQhVLrWpTVESrKWl-?usp=drive_link).
+Saliency maps can be download at: ResNet ([Google]https://drive.google.com/drive/folders/1vFvVu7_SI-0Ia8SmQhVLrWpTVESrKWl-?usp=drive_link).
